@@ -5,13 +5,13 @@
 
 Gem::Specification.new do |s|
   s.name = %q{resources_controller}
-  s.version = "1.0.2"
+  s.version = "1.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Mitesh Jain", "Ranjan Kumar"]
   s.date = %q{2011-01-19}
-  s.description = %q{resource_controller adapted to Rails 3}
-  s.email = %q{james@giraffesoft.ca}
+  s.description = %q{resource_controller adapted to Rails 3.x}
+  s.email = %q{mitijain123@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE",
      "README.rdoc",
@@ -265,7 +265,7 @@ Gem::Specification.new do |s|
      "test/vendor/plugins/dynamic_form/test/dynamic_form_test.rb",
      "test/vendor/plugins/dynamic_form/test/test_helper.rb"
   ]
-  s.homepage = %q{http://github.com/railsdog/resource_controller}
+  s.homepage = %q{https://github.com/mitijain123/resources_controller}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}
